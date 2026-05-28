@@ -1741,7 +1741,7 @@ body{
     background:
     linear-gradient(rgba(0,0,0,0.55),
     rgba(0,0,0,0.55)),
-    url('../media/missionbg.jpg');
+    url('media/missionbg.jpg');
 
     background-size: cover;
     background-position: center;
